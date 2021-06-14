@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AACA,IACE,aACF,CAEA,SACE,aACF","file":"style.d7b544bf.css","sourceRoot":"..\\src","sourcesContent":["/* styles go here */\ndiv {\n  margin: 10px 0;\n}\n\nfieldset {\n  margin: 20px 0;\n}\n"]}
